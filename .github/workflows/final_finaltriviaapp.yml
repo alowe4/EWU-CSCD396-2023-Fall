@@ -21,9 +21,6 @@ jobs:
         with:
           dotnet-version: '7.x'
           include-prerelease: true
-
-      - name: Move to Correct File
-        run: cd triviaFinal
         
       - name: Build with dotnet
         run: dotnet build --configuration Debug
