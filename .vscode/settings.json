@@ -1,7 +1,4 @@
 {
-    "azureFunctions.deploySubpath": "SampleResources\\Assn4FunctionProj",
-    "azureFunctions.projectLanguage": "PowerShell",
-    "azureFunctions.projectRuntime": "~4",
     "debug.internalConsoleOptions": "neverOpen",
     "appService.defaultWebAppToDeploy": "/subscriptions/42f90695-f39c-451f-8b08-dc2ddfc9c182/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/FinalTriviaApp",
     "appService.deploySubpath": "Final\\triviaFinal"
