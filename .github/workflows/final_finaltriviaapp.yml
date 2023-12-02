@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - FinalTriviaApp
 on:
   push:
     branches:
-      - final
+      - Final/triviaFinal
   workflow_dispatch:
 
 jobs:
