@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\silve\Documents\GitHub\396 DevOps\EWU-Final\EWU-CSCD396-2023-Fall\.github\workflows\FinalNewRegion.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
