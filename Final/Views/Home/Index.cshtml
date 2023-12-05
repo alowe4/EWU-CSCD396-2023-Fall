@@ -1,0 +1,22 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <h3>Received Messages:</h3>
+    <ul>
+        @foreach (var message in Model)
+        {
+            <li>@message</li>
+        }
+    </ul>
+
+    <form method="post" asp-action="ReceiveMessage" asp-controller="Home">
+        <button type="submit">Retrieve Message</button>
+    </form>
+</div>
