@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\Final.csproj": {}
+    "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\Final.csproj": {
+    "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\Final.csproj",
+        "projectUniqueName": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\Final.csproj",
+        "projectPath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\silve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\obj\\",
+        "outputPath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\silve\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46LXgaYy4homSY82SwyYT1gADc6FJtyVRvrNQwt0LUL/+LQ7SSSL+Eq89wc8pRwZMmZBG/QU4RoFKK24hfzTqw==",
+  "dgSpecHash": "feaqtX11+kknyvu4pqErfwlufJ+uuBNq9XRs14TuQP5PfnNPiny3sKKZzAsBTDU9VSs/Hh+RiU+XCJ4NngfS5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\NewWebApp\\Final\\Final\\Final.csproj",
+  "projectFilePath": "C:\\Users\\silve\\Documents\\GitHub\\396 DevOps\\EWU-Final\\EWU-CSCD396-2023-Fall\\Final\\Final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silve\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\silve\\.nuget\\packages\\azure.storage.common\\12.18.1\\azure.storage.common.12.18.1.nupkg.sha512",
