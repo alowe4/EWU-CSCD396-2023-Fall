@@ -28,6 +28,7 @@ namespace Final.Controllers
 
         public async Task<IActionResult> ReceiveMessage()
         {
+            Response.Cookies.Delete("ReceivedMessages");
             var queueMessage = await _queueService.ReceiveMessageAsync();
 
             if (queueMessage != null)
