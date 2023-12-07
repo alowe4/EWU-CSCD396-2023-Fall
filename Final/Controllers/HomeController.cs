@@ -60,6 +60,13 @@ namespace Final.Controllers
 
             return View(receivedMessages);
         }
+        public IActionResult ClearMessages()
+        {
+            // Clear the "ReceivedMessages" cookie
+            Response.Cookies.Delete("ReceivedMessages");
+
+            return RedirectToAction("Index");
+        }
 
         public IActionResult Privacy()
         {
