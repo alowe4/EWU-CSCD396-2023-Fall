@@ -10,11 +10,19 @@ this repo only has the code and CI/CD for the web app
 i have since deleted my azure resource group for this project
 
 if i were to redo this the goals i have include
+
 -branch on github for the fn app with CI/CD
+
 -bicep infrastructure as code deployment of all resources
+
 -proper use of github secrets for connection strings, or use of managed identity to avoid connection strings
+
 -name the resources and files better
+
 -create a better website ui
+
 -make it so that more questions would be loaded into queue if it was found to be empty
+
 -actually restrict file types with the event grid system topic, so that the blob trigger only triggers on certain files being uploaded
+
 -implement the rest of the trivia game that i have the rules for.
